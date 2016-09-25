@@ -12,6 +12,8 @@
 		62ECDBEB1D9693EF00CB48E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 62ECDBE91D9693EF00CB48E6 /* Main.storyboard */; };
 		62ECDBED1D9693EF00CB48E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 62ECDBEC1D9693EF00CB48E6 /* Assets.xcassets */; };
 		62ECDBF01D9693EF00CB48E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 62ECDBEE1D9693EF00CB48E6 /* LaunchScreen.storyboard */; };
+		62ECDBF81D96944200CB48E6 /* iphone-6-best-wallpapers-hd.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 62ECDBF71D96944200CB48E6 /* iphone-6-best-wallpapers-hd.jpg */; };
+		62ECDBFA1D96948900CB48E6 /* EGOTRIP.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 62ECDBF91D96948900CB48E6 /* EGOTRIP.TTF */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		62ECDBEC1D9693EF00CB48E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		62ECDBEF1D9693EF00CB48E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		62ECDBF11D9693EF00CB48E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		62ECDBF71D96944200CB48E6 /* iphone-6-best-wallpapers-hd.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "iphone-6-best-wallpapers-hd.jpg"; path = "../../../iphone-6-best-wallpapers-hd.jpg"; sourceTree = "<group>"; };
+		62ECDBF91D96948900CB48E6 /* EGOTRIP.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = EGOTRIP.TTF; path = ../../../EGOTRIP.TTF; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		62ECDBE41D9693EF00CB48E6 /* ClickClock */ = {
 			isa = PBXGroup;
 			children = (
+				62ECDBF91D96948900CB48E6 /* EGOTRIP.TTF */,
+				62ECDBF71D96944200CB48E6 /* iphone-6-best-wallpapers-hd.jpg */,
 				62ECDBE51D9693EF00CB48E6 /* AppDelegate.swift */,
 				62ECDBE71D9693EF00CB48E6 /* ViewController.swift */,
 				62ECDBE91D9693EF00CB48E6 /* Main.storyboard */,
@@ -122,8 +128,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				62ECDBF81D96944200CB48E6 /* iphone-6-best-wallpapers-hd.jpg in Resources */,
 				62ECDBF01D9693EF00CB48E6 /* LaunchScreen.storyboard in Resources */,
 				62ECDBED1D9693EF00CB48E6 /* Assets.xcassets in Resources */,
+				62ECDBFA1D96948900CB48E6 /* EGOTRIP.TTF in Resources */,
 				62ECDBEB1D9693EF00CB48E6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
